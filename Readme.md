@@ -7,7 +7,7 @@ A simple yet efficient **mouse auto-click tool** that supports **custom shortcut
 - **Independent Control for Left/Right Buttons**  
   Configure separate shortcuts and click intervals for left and right mouse buttons without interference.
 - **Shortcut Toggle**  
-  Default shortcuts: `Shift + R` (left click) and `Shift + C` (right click) for instant start/stop.
+  Default shortcuts: `Shift + R` (left click) and `Shift + C` (right click) for instant start/stop. Left and right buttons can be used at the same time.
 - **Customizable Settings**  
   Modify shortcut combinations and click intervals (in milliseconds). Configurations auto-save to `settings.txt` in the same directory.
 - **Theme Switching**  
@@ -32,7 +32,7 @@ A simple yet efficient **mouse auto-click tool** that supports **custom shortcut
 - **左右键独立控制**  
   分别设置左键和右键的快捷键及点击间隔，互不干扰。
 - **快捷键启停**  
-  默认使用 `Shift + R`（左键）和 `Shift + C`（右键）快速启停连点。
+  默认使用 `Shift + R`（左键）和 `Shift + C`（右键）快速启停连点。左右键可同时连点。
 - **自定义配置**  
   支持修改快捷键组合、点击间隔（毫秒），配置自动保存至同目录下的 `settings.txt`。
 - **主题切换**  
