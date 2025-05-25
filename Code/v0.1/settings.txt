@@ -1,0 +1,4 @@
+left_key=SHIFT+R
+right_key=C+SHIFT
+left_interval=20
+right_interval=20
