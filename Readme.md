@@ -15,6 +15,13 @@ A simple yet efficient **mouse auto-click tool** that supports **custom shortcut
 - **Real-Time Status Feedback**  
   Dynamic interface displays current activation status (✅/❌) for left/right buttons.
 
+# 📝 Important Notes
+
+- **Use the Latest Version**
+  Ensure you're using the latest version to get the best performance and features.
+
+- **Configuration File**
+  Automatically generated `settings.txt` upon first run, containing default settings.
 
 # 🖱 刘牢板连点器
 
@@ -32,3 +39,11 @@ A simple yet efficient **mouse auto-click tool** that supports **custom shortcut
   提供亮色（☀️）和暗色（🌙）两种主题，一键切换。
 - **实时状态反馈**  
   界面动态显示当前左右键的启停状态（✅/❌）。
+
+# 📝 注意事项
+
+- **使用最新版**
+  确保使用最新版本以获取最佳性能和功能。exe文件在`releases`中。
+
+- **配置文件**
+  首次运行时，会自动生成 `settings.txt` 文件，包含默认配置。
